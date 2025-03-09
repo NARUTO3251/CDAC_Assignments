@@ -6,6 +6,6 @@ public class Solution{
 			sum = sum + (x%10);
 			x = x/10;
 		}
-		System.out.println("Sum: " + res);
+		System.out.println("Sum: " + sum);
 	}
 }
